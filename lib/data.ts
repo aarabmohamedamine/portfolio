@@ -9,17 +9,15 @@ export const siteConfig = {
   headline: "Computer Engineering Student (GI 1) at ENSAH",
   subheadline: "Full-Stack Developer",
   bio: "Passionate engineering student with a strong foundation in physical sciences, now diving deep into computer engineering, backend logic, and AI-assisted development (vibecoding). I build efficient, scalable solutions and enjoy problem-solving.",
-  email: "aarabmedamine@example.com", // ← Replace with your real email
+  email: "aarabmedamine2@gmail.com", // ← Replace with your real email
   linkedin: "https://www.linkedin.com/in/aarabmedamine/",
-  github: "https://github.com/aarabmedamine", // ← Replace with your GitHub URL if desired
+  github: "https://github.com/aarabmohamedamine", // ← Replace with your GitHub URL if desired
 };
 
 // ── Skills ──────────────────────────────────────────────────
 export const skills: string[] = [
   "Python",
   "C",
-  "Next.js",
-  "Tailwind CSS",
   "SQLite",
   "HTML / CSS",
   "JavaScript",
